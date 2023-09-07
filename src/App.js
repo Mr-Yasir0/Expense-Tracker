@@ -10,6 +10,7 @@ function App() {
     <>
       <GlobalProvider>
         <Header />
+
         <div className="container">
           <Balance />
           <IncomeExpenses />
